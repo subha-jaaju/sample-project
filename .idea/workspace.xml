@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e745ebe-8221-4b91-9f8b-776f49d9bf49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/site.css" afterDir="false" />
-    </list>
+    <list default="true" id="2e745ebe-8221-4b91-9f8b-776f49d9bf49" name="Changes" comment="changed the css height" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
