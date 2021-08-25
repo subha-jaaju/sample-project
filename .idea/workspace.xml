@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e745ebe-8221-4b91-9f8b-776f49d9bf49" name="Changes" comment="css height">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/site.css" afterDir="false" />
-    </list>
+    <list default="true" id="2e745ebe-8221-4b91-9f8b-776f49d9bf49" name="Changes" comment="changed the css height" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,9 +9,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/css/site.css" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1xESkYcIZlh8pnr8f03NYcbOECv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,21 +30,6 @@
       <option name="presentableId" value="Default" />
       <updated>1629918897602</updated>
     </task>
-    <task id="LOCAL-00001" summary="css height">
-      <created>1629919309745</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1629919309745</updated>
-    </task>
-    <task id="LOCAL-00002" summary="css height">
-      <created>1629919376199</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1629919376199</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,9 +42,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="css height" />
-    <option name="LAST_COMMIT_MESSAGE" value="css height" />
   </component>
 </project>
